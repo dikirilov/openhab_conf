@@ -1,0 +1,2 @@
+Number temperature "Температура [%.1f]" {mqtt="<[mybroker:/bpi/temp]"}
+Number humidity "Температура [%.1f]" {mqtt="<[mybroker:/bpi/humi]"}
