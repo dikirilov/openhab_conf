@@ -1,0 +1,14 @@
+192.168.1.37 -  -  [24/May/2015:17:34:16 +0000] "GET / HTTP/1.1" 302 0 
+192.168.1.37 -  -  [24/May/2015:17:34:17 +0000] "GET /static/index.html HTTP/1.1" 200 669 
+192.168.1.37 -  -  [24/May/2015:17:34:17 +0000] "GET /openhab.app?sitemap=test HTTP/1.1" 200 7916 
+192.168.1.37 -  -  [24/May/2015:17:34:17 +0000] "GET /images/usd.png HTTP/1.1" 200 273 
+192.168.1.37 -  -  [24/May/2015:17:34:17 +0000] "GET /images/euro.png HTTP/1.1" 200 497 
+192.168.1.37 -  -  [24/May/2015:17:34:18 +0000] "GET /%22http://192.168.1.41:8080/WebApp/Design/Img/loader-gray-100x12x2.png%22 HTTP/1.1" 404 1596 
+192.168.1.37 -  -  [24/May/2015:17:34:19 +0000] "GET /openhab.app?sitemap=test&poll=true&__async=true&__source=waHome HTTP/1.1" 200 92 
+192.168.1.37 -  -  [24/May/2015:17:34:30 +0000] "GET /openhab.app?sitemap=test&poll=true&__async=true&__source=waHome HTTP/1.1" 200 92 
+192.168.1.37 -  -  [24/May/2015:17:34:41 +0000] "GET /openhab.app?sitemap=test&poll=true&__async=true&__source=waHome HTTP/1.1" 200 2031 
+192.168.1.37 -  -  [24/May/2015:17:34:49 +0000] "GET /rest/items/Temperature_FF_Office?jsoncallback=callback HTTP/1.1" 200 221 
+192.168.1.37 -  -  [24/May/2015:17:38:06 +0000] "GET /rest/items/Temperature_FF_Office HTTP/1.1" 200 221 
+192.168.1.37 -  -  [24/May/2015:17:38:23 +0000] "GET /rest HTTP/1.1" 200 202 
+192.168.1.37 -  -  [24/May/2015:17:38:39 +0000] "GET /rest/sitemaps HTTP/1.1" 200 516 
+192.168.1.37 -  -  [24/May/2015:17:39:02 +0000] "GET /rest/sitemaps/test HTTP/1.1" 200 34394 

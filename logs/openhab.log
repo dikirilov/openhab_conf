@@ -1,0 +1,19 @@
+2015-05-31 00:00:05.525 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 0 degrees.
+2015-05-31 00:04:16.959 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of -1 degrees.
+2015-05-31 00:37:26.494 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of -1 degrees.
+2015-05-31 02:38:33.622 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of -1 degrees.
+2015-05-31 05:39:18.886 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of -1 degrees.
+2015-05-31 07:39:28.009 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.
+2015-05-31 08:03:42.787 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.
+2015-05-31 08:39:08.915 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.
+2015-05-31 09:04:24.146 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 2 degrees.
+2015-05-31 10:04:48.958 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.
+2015-05-31 10:10:35.593 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketTimeoutException: Read timed out
+2015-05-31 10:10:35.594 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2015-05-31 10:38:18.138 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 2 degrees.
+2015-05-31 11:05:22.521 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.
+2015-05-31 11:37:39.040 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.
+2015-05-31 11:38:39.540 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 0 degrees.
+2015-05-31 11:39:40.159 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.
+2015-05-31 12:39:14.555 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.
+2015-05-31 14:03:22.476 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 1 degrees.

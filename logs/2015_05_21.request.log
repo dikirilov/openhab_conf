@@ -1,0 +1,6 @@
+192.168.1.37 -  -  [21/May/2015:15:27:52 +0000] "GET / HTTP/1.1" 302 0 
+192.168.1.37 -  -  [21/May/2015:15:27:52 +0000] "GET /static/index.html HTTP/1.1" 200 669 
+192.168.1.37 -  -  [21/May/2015:15:27:53 +0000] "GET /openhab.app?sitemap=test HTTP/1.1" 200 7916 
+192.168.1.37 -  -  [21/May/2015:15:27:53 +0000] "GET /images/euro.png HTTP/1.1" 200 497 
+192.168.1.37 -  -  [21/May/2015:15:27:53 +0000] "GET /images/usd.png HTTP/1.1" 200 273 
+192.168.1.37 -  -  [21/May/2015:15:27:55 +0000] "GET /openhab.app?sitemap=test&poll=true&__async=true&__source=waHome HTTP/1.1" 200 92 
