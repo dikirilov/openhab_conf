@@ -1396,3 +1396,1511 @@ Component2: Component[
 	references = null
 	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
 ]  
+!SESSION 2015-06-10 02:01:48.741 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=en_US
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:10.213
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:10.215
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:10.422
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:10.424
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:17.282
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:18.066
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:54.095
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:54.098
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:54.139
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:54.141
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:54.333
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:02:54.335
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:04:07.976
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:04:07.978
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:04:07.980
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:04:07.981
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 02:04:22.036
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 02:04:22.117
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 02:04:22.120
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 02:04:22.123
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 02:04:23.879
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.samsungac.internal.SamsungAcBinding.updated(SamsungAcBinding.java:177)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 02:04:25.019
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.lgtv.internal.LgtvBinding.updated(LgtvBinding.java:314)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 02:04:34.501
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 02:04:34.505
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:05:39.458
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:05:39.459
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:05:48.985
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:05:49.649
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+!SESSION 2015-06-10 02:45:27.097 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=en_US
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:45:51.862
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:45:51.864
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:45:52.071
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:45:52.073
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:46:00.837
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:46:00.839
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:46:32.566
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:46:32.568
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:46:32.610
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:46:32.611
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:46:32.809
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:46:32.810
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 02:47:47.274
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 02:47:47.361
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 02:47:47.364
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 02:47:47.366
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:47:50.725
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:47:50.727
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:47:50.730
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:47:50.731
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 02:48:12.248
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.xbmc.internal.XbmcActiveBinding.updated(XbmcActiveBinding.java:358)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 02:48:36.220
+!MESSAGE alarmdecoder:connect : no config!
+!STACK 0
+org.osgi.service.cm.ConfigurationException: alarmdecoder:connect : no config!
+	at org.openhab.binding.alarmdecoder.internal.AlarmDecoderBinding.updated(AlarmDecoderBinding.java:130)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 02:48:40.959
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.mios.internal.MiosBinding.updated(MiosBinding.java:348)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:49:16.582
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:49:16.584
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 02:49:33.876
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 02:49:33.880
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:49:48.687
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 02:49:50.670
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+!SESSION 2015-06-10 03:31:36.165 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=en_US
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:31:59.250
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:31:59.252
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:31:59.454
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:31:59.455
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:32:06.243
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:32:07.198
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:32:37.757
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:32:37.759
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:32:37.852
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:32:37.854
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:32:38.050
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:32:38.052
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 03:33:41.518
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 03:33:41.524
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 03:33:41.526
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 03:33:41.529
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:33:43.932
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:33:43.934
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:33:43.936
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:33:43.937
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 03:33:59.128
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.xbmc.internal.XbmcActiveBinding.updated(XbmcActiveBinding.java:358)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:34:06.901
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:34:06.903
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:34:18.586
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 03:34:19.024
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 03:34:31.383
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 03:34:31.387
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 03:34:34.816
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.samsungac.internal.SamsungAcBinding.updated(SamsungAcBinding.java:177)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 03:34:35.239
+!MESSAGE alarmdecoder:connect : no config!
+!STACK 0
+org.osgi.service.cm.ConfigurationException: alarmdecoder:connect : no config!
+	at org.openhab.binding.alarmdecoder.internal.AlarmDecoderBinding.updated(AlarmDecoderBinding.java:130)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 03:34:41.745
+!MESSAGE Unable to load library 'telldus-core': Native library (linux-arm/libtelldus-core.so) not found in resource path (server/plugins/org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+!STACK 0
+java.lang.UnsatisfiedLinkError: Unable to load library 'telldus-core': Native library (linux-arm/libtelldus-core.so) not found in resource path (server/plugins/org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:271)
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:398)
+	at com.sun.jna.Library$Handler.<init>(Library.java:147)
+	at com.sun.jna.Native.loadLibrary(Native.java:412)
+	at com.sun.jna.Native.loadLibrary(Native.java:391)
+	at org.openhab.binding.tellstick.internal.JNA$CLibrary.<clinit>(JNA.java:95)
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:157)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:98)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:366)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:164)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+!SESSION 2015-06-10 05:06:02.645 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=en_US
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:06:27.831
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:06:27.833
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:06:28.035
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:06:28.037
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:06:35.525
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:06:35.527
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:07:03.269
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:07:03.271
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:07:03.308
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:07:03.310
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:07:03.510
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:07:03.511
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 05:08:19.507
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 05:08:19.584
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 05:08:19.586
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 05:08:19.588
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:08:19.752
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:08:19.753
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:08:19.755
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:08:19.757
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 05:08:41.979
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.lgtv.internal.LgtvBinding.updated(LgtvBinding.java:314)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 05:09:00.152
+!MESSAGE Unable to load library 'telldus-core': Native library (linux-arm/libtelldus-core.so) not found in resource path (server/plugins/org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+!STACK 0
+java.lang.UnsatisfiedLinkError: Unable to load library 'telldus-core': Native library (linux-arm/libtelldus-core.so) not found in resource path (server/plugins/org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:271)
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:398)
+	at com.sun.jna.Library$Handler.<init>(Library.java:147)
+	at com.sun.jna.Native.loadLibrary(Native.java:412)
+	at com.sun.jna.Native.loadLibrary(Native.java:391)
+	at org.openhab.binding.tellstick.internal.JNA$CLibrary.<clinit>(JNA.java:95)
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:157)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:98)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:366)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:164)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 05:09:00.526
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 05:09:00.530
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:09:35.330
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:09:37.723
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:09:50.444
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 05:09:50.446
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+!SESSION 2015-06-10 19:24:57.016 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=en_US
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:25:30.303
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:25:30.305
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:25:30.506
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:25:30.508
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:25:37.376
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:25:37.749
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:26:03.344
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:26:03.346
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:26:03.399
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:26:03.401
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:26:03.592
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:26:03.594
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:27:08.018
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:27:08.020
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:27:08.022
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:27:08.023
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 19:27:20.359
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 19:27:20.432
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 19:27:20.435
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 19:27:20.436
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 19:27:52.471
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.lgtv.internal.LgtvBinding.updated(LgtvBinding.java:314)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 19:27:54.990
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.mios.internal.MiosBinding.updated(MiosBinding.java:348)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 19:27:56.733
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.xbmc.internal.XbmcActiveBinding.updated(XbmcActiveBinding.java:358)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 19:28:05.650
+!MESSAGE Unable to load library 'telldus-core': Native library (linux-arm/libtelldus-core.so) not found in resource path (server/plugins/org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+!STACK 0
+java.lang.UnsatisfiedLinkError: Unable to load library 'telldus-core': Native library (linux-arm/libtelldus-core.so) not found in resource path (server/plugins/org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:271)
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:398)
+	at com.sun.jna.Library$Handler.<init>(Library.java:147)
+	at com.sun.jna.Native.loadLibrary(Native.java:412)
+	at com.sun.jna.Native.loadLibrary(Native.java:391)
+	at org.openhab.binding.tellstick.internal.JNA$CLibrary.<clinit>(JNA.java:95)
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:157)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:98)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:366)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:164)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:28:13.142
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:28:13.143
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:28:57.746
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 19:28:57.747
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 19:29:00.876
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 19:29:08.910
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+!SESSION 2015-06-10 21:10:50.926 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=en_US
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:13.721
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:13.723
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:13.925
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:13.926
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:21.560
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:21.562
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:53.008
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:53.010
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:53.053
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:53.055
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:53.253
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:11:53.255
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:12:52.171
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:12:52.172
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:12:52.174
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:12:52.176
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 21:13:04.675
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 21:13:04.746
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 21:13:04.749
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-10 21:13:04.750
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 21:13:32.198
+!MESSAGE influxdb : The configuration for influxdb is missing fix openhab.cfg
+!STACK 0
+org.osgi.service.cm.ConfigurationException: influxdb : The configuration for influxdb is missing fix openhab.cfg
+	at org.openhab.persistence.influxdb.internal.InfluxDBPersistenceService.updated(InfluxDBPersistenceService.java:212)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 21:13:32.484
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.mios.internal.MiosBinding.updated(MiosBinding.java:348)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 21:14:03.327
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.lgtv.internal.LgtvBinding.updated(LgtvBinding.java:314)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 21:14:08.712
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.xbmc.internal.XbmcActiveBinding.updated(XbmcActiveBinding.java:358)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:14:11.756
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:14:11.757
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:14:19.670
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-10 21:14:19.672
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 21:14:25.830
+!MESSAGE alarmdecoder:connect : no config!
+!STACK 0
+org.osgi.service.cm.ConfigurationException: alarmdecoder:connect : no config!
+	at org.openhab.binding.alarmdecoder.internal.AlarmDecoderBinding.updated(AlarmDecoderBinding.java:130)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-10 21:14:28.930
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.samsungac.internal.SamsungAcBinding.updated(SamsungAcBinding.java:177)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 21:14:43.918
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-10 21:14:43.923
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]  
+!SESSION 2015-06-11 00:21:38.385 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=en_US
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:09.853
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:09.855
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:10.056
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:10.057
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:16.831
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:16.833
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:45.159
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:46.491
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:46.543
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:46.544
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:46.739
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:22:46.741
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:23:48.083
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:23:48.085
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:23:48.087
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:23:48.089
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-11 00:24:00.285
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-11 00:24:00.356
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-11 00:24:00.359
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-11 00:24:00.360
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:24:22.372
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:24:22.506
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-11 00:24:30.310
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]  
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-11 00:24:30.314
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]  
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:24:59.829
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 00:24:59.831
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+!SESSION 2015-06-11 06:48:20.816 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=en_US
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:48:42.849
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:48:42.851
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:48:43.054
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:48:43.055
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:48:49.787
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:48:49.789
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:49:27.441
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:49:27.443
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:49:27.480
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:49:27.482
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:49:27.675
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:49:27.677
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:50:25.234
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:50:25.236
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:50:25.238
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:50:25.239
+!MESSAGE Could not bind a reference of component org.openhab.io.habmin.servlet. The reference is: Reference[name = ConfigurationService, interface = org.openhab.binding.zwave.internal.config.OpenHABConfigurationService, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigurationService, unbind = removeConfigurationService]
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-11 06:50:51.363
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-11 06:50:51.440
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-11 06:50:51.443
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-06-11 06:50:51.446
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-11 06:50:56.932
+!MESSAGE alarmdecoder:connect : no config!
+!STACK 0
+org.osgi.service.cm.ConfigurationException: alarmdecoder:connect : no config!
+	at org.openhab.binding.alarmdecoder.internal.AlarmDecoderBinding.updated(AlarmDecoderBinding.java:130)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-11 06:50:57.879
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.lgtv.internal.LgtvBinding.updated(LgtvBinding.java:314)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-11 06:51:03.856
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.activebinding
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveActiveBinding
+	state = Unsatisfied
+	properties = {event.topics=openhab/command/*, service.pid=org.openhab.zwave}
+	serviceFactory = false
+	serviceInterface = [org.osgi.service.event.EventHandler, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+		Reference[name = ZWaveBindingProvider, interface = org.openhab.binding.zwave.ZWaveBindingProvider, policy = dynamic, cardinality = 1..n, target = null, bind = addBindingProvider, unbind = removeBindingProvider]
+	}
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]  
+
+!ENTRY org.openhab.binding.zwave 2 0 2015-06-11 06:51:03.860
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.5.0.201406132132 [339]
+]
+Component2: Component[
+	name = org.openhab.binding.zwave.genericbindingprovider
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = org.openhab.binding.zwave.internal.ZWaveGenericBindingProvider
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [org.openhab.model.item.binding.BindingConfigReader, org.openhab.binding.zwave.ZWaveBindingProvider]
+	references = null
+	located in bundle = org.openhab.binding.zwave_1.6.2 [278]
+]  
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-11 06:51:15.433
+!MESSAGE influxdb : The configuration for influxdb is missing fix openhab.cfg
+!STACK 0
+org.osgi.service.cm.ConfigurationException: influxdb : The configuration for influxdb is missing fix openhab.cfg
+	at org.openhab.persistence.influxdb.internal.InfluxDBPersistenceService.updated(InfluxDBPersistenceService.java:212)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-11 06:51:26.928
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.mios.internal.MiosBinding.updated(MiosBinding.java:348)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:51:34.113
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:51:34.115
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-06-11 06:51:35.466
+!MESSAGE Unable to load library 'telldus-core': Native library (linux-arm/libtelldus-core.so) not found in resource path (server/plugins/org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+!STACK 0
+java.lang.UnsatisfiedLinkError: Unable to load library 'telldus-core': Native library (linux-arm/libtelldus-core.so) not found in resource path (server/plugins/org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:271)
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:398)
+	at com.sun.jna.Library$Handler.<init>(Library.java:147)
+	at com.sun.jna.Native.loadLibrary(Native.java:412)
+	at com.sun.jna.Native.loadLibrary(Native.java:391)
+	at org.openhab.binding.tellstick.internal.JNA$CLibrary.<clinit>(JNA.java:95)
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:157)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:98)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:366)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:164)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:51:51.778
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-06-11 06:51:51.779
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]

@@ -1,0 +1,15 @@
+sitemap home label="Умный дом"
+{
+	Frame 
+	{
+		Text item=Date
+	}
+	Frame label="Датчики"
+	{
+		Text item=tempHome
+		Text item=humiHome
+		Text item=press
+		Text item=pres
+		Text item=smoke
+	}
+} 

@@ -1,0 +1,27 @@
+Group All
+Group Sensors (All)
+Group Controllers (All)
+Group Temperature (Sensors)
+Group Humidity (Sensors)
+Group Outdoor (All)
+Group Indoor (All)
+Group Smoke (Sensors)
+Group Presence (Sensors)
+Group LightStatus (Sensors)
+Group LightControl (Controllers)
+Group Pressure (Sensors)
+
+Number tempHome "Температура [%.1f °C]" <temperature> (Temperature, Indoor) {mqtt="<[mybroker:/device/status/tempHome:state:default]"}
+
+Number humiHome "Влажность [%.1f %%]" <humidity> (Humidity, Indoor) {mqtt="<[mybroker:/device/status/humiHome:state:default]"}
+
+Number press "Давление [%d Pa]" (Pressure, Outdoor) {mqtt="<[mybroker:/device/status/press:state:default]"}
+
+Switch pres "Присутствие [%d]" <contact> (Presence, Indoor) {mqtt="<[mybroker:/device/status/pres:state:default]"}
+
+Switch smoke "Дым [%d]" <contact> (Smoke, Indoor) {mqtt="<[mybroker:/device/status/smoke:state:default]"}
+
+DateTime Date "Дата [%1$td.%1$tm.%1$tY]" <calendar>  { ntp="Europe/Moscow" }
+
+Switch lightHall "Свет в корридоре [%d]" (LightControl, Indoor) { mqtt=">[mybroker:/server/command/lightHall:command:1:ON],>[mybroker:/server/command/lightHall:command:0: OFF]" }
+

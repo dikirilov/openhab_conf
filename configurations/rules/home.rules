@@ -1,0 +1,57 @@
+
+rule "Light on presence"
+when
+	Item pres received update
+then
+	var pr = pres.state
+	logInfo("Presense", "Presense now is " + pr)
+end
+
+rule "Temp update"
+when
+	Item tempHome received update
+then
+	var temp = tempHome.state
+	logInfo("Tempar", "Temperature now is " + temp)
+	postUpdate(lightHall, ON)
+end
+
+rule "Humi update"
+when
+	Item humiHome received update
+then
+	var pr = humiHome.state
+	logInfo("Humi", "Humidity now is " + pr)
+end
+
+rule "Pressure update"
+when
+	Item press received update
+then
+	var pr = press.state
+	logInfo("Pressure", "Pressure now is " + pr)
+end
+
+rule "Smoke update"
+when
+	Item smoke received update
+then
+	var sm = smoke.state
+	logInfo("Smoke", "Smoke now is " + sm)
+end
+
+rule "Light command"
+when
+	Item lightHall received command
+then
+	logInfo("lights", "Received command is " + receivedCommand)
+end
+
+rule "Light update"
+when
+	Item lightHall received update
+then
+	var text = "Light is " + lightHall.state
+	logInfo("Lights", text)
+	executeCommandLine("/opt/openhab/configurations/scripts/send_tg.sh Дмитрий_Кириловский \"" + text + "\"")
+end
