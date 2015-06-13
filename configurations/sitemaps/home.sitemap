@@ -4,12 +4,16 @@ sitemap home label="Умный дом"
 	{
 		Text item=Date
 	}
+	Frame label="Режим"
+	{
+		Switch item=nobodyHome
+	}
 	Frame label="Датчики"
 	{
 		Text item=tempHome
 		Text item=humiHome
 		Text item=press
-		Text item=pres
+		Text item=presenceHall
 		Text item=smoke
 	}
 } 

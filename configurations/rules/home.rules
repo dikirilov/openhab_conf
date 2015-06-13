@@ -1,57 +1,47 @@
 
+rule "Initialization"
+when
+	System started
+then
+	postUpdate(nobodyHome, "0")
+end
+
 rule "Light on presence"
 when
-	Item pres received update
+	Item presenceHall changed to 1
 then
-	var pr = pres.state
-	logInfo("Presense", "Presense now is " + pr)
+	if (nobodyHome == 1)
+	{
+		sendCommand(presenceHall, ON)
+		var text = "Движение в доме!"
+		executeCommandLine("/opt/openhab/configurations/scripts/send_tg.sh \"" + text + "\"")		
+	}
+	else
+	{
+		sendCommand(lightHall, ON)
+	}
 end
 
-rule "Temp update"
+rule "light off"
 when
-	Item tempHome received update
+	Item presenceHall changed to 0
 then
-	var temp = tempHome.state
-	logInfo("Tempar", "Temperature now is " + temp)
-	postUpdate(lightHall, ON)
+	logInfo("pre", "pres is working")
+	sendCommand(lightHall, OFF)
 end
 
-rule "Humi update"
-when
-	Item humiHome received update
-then
-	var pr = humiHome.state
-	logInfo("Humi", "Humidity now is " + pr)
-end
-
-rule "Pressure update"
-when
-	Item press received update
-then
-	var pr = press.state
-	logInfo("Pressure", "Pressure now is " + pr)
-end
-
-rule "Smoke update"
+rule "Smoke is here"
 when
 	Item smoke received update
 then
-	var sm = smoke.state
-	logInfo("Smoke", "Smoke now is " + sm)
-end
-
-rule "Light command"
-when
-	Item lightHall received command
-then
-	logInfo("lights", "Received command is " + receivedCommand)
-end
-
-rule "Light update"
-when
-	Item lightHall received update
-then
-	var text = "Light is " + lightHall.state
-	logInfo("Lights", text)
-	executeCommandLine("/opt/openhab/configurations/scripts/send_tg.sh Дмитрий_Кириловский \"" + text + "\"")
+	if (smoke.state == 1)
+	{
+		sendCommand(smoke, ON)
+		var text = "В помещении дым!"
+		executeCommandLine("/opt/openhab/configurations/scripts/send_tg.sh \"" + text + "\"")
+	}
+	else
+	{
+		sendCommand(smoke, OFF)
+	}
 end

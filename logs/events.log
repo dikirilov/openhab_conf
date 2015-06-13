@@ -4404,3 +4404,235 @@
 2015-06-11 06:53:58 - lightHall state updated to ON
 2015-06-11 06:53:59 - lightHall state updated to ON
 2015-06-11 06:53:59 - lightHall state updated to ON
+2015-06-12 05:38:22 - lightHall state updated to ON
+2015-06-12 05:45:57 - humiHome state updated to 64.6
+2015-06-12 05:46:14 - press state updated to 98000
+2015-06-12 05:59:20 - press state updated to -
+2015-06-12 06:07:17 - tempHome state updated to 29.4
+2015-06-12 06:07:17 - lightHall state updated to ON
+2015-06-12 06:07:28 - tempHome state updated to 29.4
+2015-06-12 06:07:28 - lightHall state updated to ON
+2015-06-12 06:52:27 - lightHall state updated to ON
+2015-06-12 06:53:09 - Date state updated to 2015-06-12T06:53:09
+2015-06-12 06:55:31 - humiHome state updated to 68.2
+2015-06-12 06:55:31 - humiHome state updated to 68.2
+2015-06-12 06:55:31 - humiHome state updated to 68.2
+2015-06-12 06:55:31 - humiHome state updated to 68.2
+2015-06-12 06:55:42 - press state updated to 103000
+2015-06-12 06:55:42 - press state updated to 103000
+2015-06-12 06:55:42 - press state updated to 103000
+2015-06-12 06:55:43 - press state updated to 103000
+2015-06-12 06:56:55 - pres state updated to 1
+2015-06-12 06:56:55 - pres state updated to 1
+2015-06-12 06:56:55 - pres state updated to 1
+2015-06-12 06:56:55 - pres state updated to 1
+2015-06-12 06:57:06 - pres state updated to ON
+2015-06-12 06:57:06 - pres state updated to ON
+2015-06-12 06:57:06 - pres state updated to ON
+2015-06-12 06:57:06 - pres state updated to ON
+2015-06-12 06:57:20 - pres state updated to on
+2015-06-12 06:57:20 - pres state updated to on
+2015-06-12 06:57:20 - pres state updated to on
+2015-06-12 06:57:20 - pres state updated to on
+2015-06-12 06:58:29 - pres state updated to 1
+2015-06-12 06:58:29 - pres state updated to 1
+2015-06-12 06:58:29 - pres state updated to 1
+2015-06-12 06:58:29 - pres state updated to 1
+2015-06-12 07:07:31 - presenceHall state updated to false
+2015-06-12 07:07:31 - presenceHall state updated to false
+2015-06-12 07:07:31 - presenceHall state updated to false
+2015-06-12 07:07:31 - presenceHall state updated to false
+2015-06-12 07:07:40 - presenceHall state updated to true
+2015-06-12 07:07:40 - presenceHall state updated to true
+2015-06-12 07:07:40 - presenceHall state updated to true
+2015-06-12 07:07:40 - presenceHall state updated to true
+2015-06-12 07:08:09 - Date state updated to 2015-06-12T07:08:09
+2015-06-12 07:09:08 - presenceHall state updated to 0
+2015-06-12 07:09:08 - presenceHall state updated to 0
+2015-06-12 07:09:08 - presenceHall state updated to 0
+2015-06-12 07:09:09 - presenceHall state updated to 0
+2015-06-12 07:09:14 - presenceHall state updated to 1
+2015-06-12 07:09:14 - presenceHall state updated to 1
+2015-06-12 07:09:14 - presenceHall state updated to 1
+2015-06-12 07:09:14 - presenceHall state updated to 1
+2015-06-12 07:09:18 - presenceHall state updated to 0
+2015-06-12 07:09:18 - presenceHall state updated to 0
+2015-06-12 07:09:18 - presenceHall state updated to 0
+2015-06-12 07:09:18 - presenceHall state updated to 0
+2015-06-12 07:10:16 - presenceHall state updated to 0
+2015-06-12 07:10:16 - presenceHall state updated to 0
+2015-06-12 07:10:16 - presenceHall state updated to 0
+2015-06-12 07:10:16 - presenceHall state updated to 0
+2015-06-12 07:10:55 - presenceHall state updated to 0
+2015-06-12 07:10:55 - presenceHall state updated to 0
+2015-06-12 07:10:55 - presenceHall state updated to 0
+2015-06-12 07:10:55 - presenceHall state updated to 0
+2015-06-12 07:10:58 - lightHall received command ON
+2015-06-12 07:10:58 - lightHall received command ON
+2015-06-12 07:10:58 - lightHall received command ON
+2015-06-12 07:10:58 - lightHall received command ON
+2015-06-12 07:11:26 - presenceHall state updated to 1
+2015-06-12 07:11:26 - presenceHall state updated to 1
+2015-06-12 07:11:26 - lightHall received command ON
+2015-06-12 07:11:26 - presenceHall state updated to 1
+2015-06-12 07:11:26 - lightHall received command ON
+2015-06-12 07:11:26 - presenceHall state updated to 1
+2015-06-12 07:11:26 - lightHall received command ON
+2015-06-12 07:11:26 - lightHall received command ON
+2015-06-12 07:16:14 - presenceHall state updated to 0
+2015-06-12 07:16:14 - presenceHall state updated to 0
+2015-06-12 07:16:14 - presenceHall state updated to 0
+2015-06-12 07:16:14 - presenceHall state updated to 0
+2015-06-12 07:18:03 - presenceHall state updated to 0
+2015-06-12 07:18:03 - presenceHall state updated to 0
+2015-06-12 07:18:03 - presenceHall state updated to 0
+2015-06-12 07:18:03 - presenceHall state updated to 0
+2015-06-12 07:19:13 - presenceHall state updated to 0
+2015-06-12 07:23:09 - Date state updated to 2015-06-12T07:23:09
+2015-06-12 07:23:21 - presenceHall state updated to 0
+2015-06-12 07:25:58 - presenceHall state updated to 0
+2015-06-12 07:38:10 - Date state updated to 2015-06-12T07:38:10
+2015-06-12 07:53:10 - Date state updated to 2015-06-12T07:53:10
+2015-06-12 08:08:11 - Date state updated to 2015-06-12T08:08:11
+2015-06-12 08:23:11 - Date state updated to 2015-06-12T08:23:11
+2015-06-12 17:48:41 - lightHall state updated to ON
+2015-06-12 17:51:05 - presenceHall state updated to Empty
+2015-06-12 17:51:05 - presenceHall state updated to 0
+2015-06-12 17:51:05 - presenceHall state updated to Empty
+2015-06-12 17:51:05 - presenceHall state updated to 0
+2015-06-12 18:21:57 - lightHall state updated to ON
+2015-06-12 18:21:59 - Date state updated to 2015-06-12T18:21:59
+2015-06-12 18:36:59 - Date state updated to 2015-06-12T18:36:59
+2015-06-12 18:38:42 - presenceHall state updated to Empty
+2015-06-12 18:39:14 - presenceHall state updated to Here
+2015-06-12 18:41:33 - presenceHall state updated to 0
+2015-06-12 18:51:59 - Date state updated to 2015-06-12T18:51:59
+2015-06-12 19:06:19 - presenceHall state updated to 1
+2015-06-12 19:06:20 - lightHall received command ON
+2015-06-12 19:07:00 - Date state updated to 2015-06-12T19:06:59
+2015-06-12 19:22:00 - Date state updated to 2015-06-12T19:22:00
+2015-06-12 19:37:01 - Date state updated to 2015-06-12T19:37:00
+2015-06-12 19:52:01 - Date state updated to 2015-06-12T19:52:01
+2015-06-12 20:32:35 - lightHall state updated to ON
+2015-06-12 22:38:05 - presenceHall state updated to 1
+2015-06-12 22:38:06 - lightHall received command ON
+2015-06-13 00:26:18 - lightHall state updated to ON
+2015-06-13 00:29:48 - presenceHall state updated to 1
+2015-06-13 00:29:53 - lightHall received command ON
+2015-06-13 00:37:17 - presenceHall state updated to 0
+2015-06-13 00:38:10 - presenceHall state updated to 0
+2015-06-13 00:38:16 - presenceHall state updated to 0
+2015-06-13 00:39:40 - presenceHall state updated to 1
+2015-06-13 00:39:40 - lightHall received command ON
+2015-06-13 00:39:47 - presenceHall state updated to 1
+2015-06-13 00:44:17 - presenceHall state updated to 1
+2015-06-13 00:44:29 - presenceHall state updated to 0
+2015-06-13 00:44:41 - presenceHall state updated to 1
+2015-06-13 00:44:41 - lightHall received command ON
+2015-06-13 00:46:07 - presenceHall state updated to 0
+2015-06-13 00:48:50 - presenceHall state updated to 0
+2015-06-13 00:48:57 - presenceHall state updated to 0
+2015-06-13 00:50:36 - presenceHall state updated to 0
+2015-06-13 00:51:24 - presenceHall state updated to 0
+2015-06-13 00:51:59 - presenceHall state updated to 0
+2015-06-13 00:53:16 - presenceHall state updated to 1
+2015-06-13 00:53:16 - lightHall received command ON
+2015-06-13 00:53:20 - presenceHall state updated to 0
+2015-06-13 01:25:31 - presenceHall state updated to 0
+2015-06-13 01:25:37 - presenceHall state updated to 1
+2015-06-13 01:25:38 - lightHall received command ON
+2015-06-13 01:25:47 - presenceHall state updated to 0
+2015-06-13 01:25:48 - lightHall received command OFF
+2015-06-13 01:26:08 - presenceHall state updated to 1
+2015-06-13 01:26:08 - lightHall received command ON
+2015-06-13 01:27:33 - presenceHall state updated to 1
+2015-06-13 01:27:42 - presenceHall state updated to 0
+2015-06-13 01:27:42 - lightHall received command OFF
+2015-06-13 01:27:47 - presenceHall state updated to 1
+2015-06-13 01:27:47 - lightHall received command ON
+2015-06-13 01:43:57 - presenceHall state updated to 1
+2015-06-13 01:44:07 - presenceHall state updated to 0
+2015-06-13 01:44:08 - lightHall received command OFF
+2015-06-13 01:44:13 - presenceHall state updated to 1
+2015-06-13 01:44:13 - lightHall received command ON
+2015-06-13 02:08:27 - nobodyHome received command ON
+2015-06-13 02:10:03 - smoke state updated to 1
+2015-06-13 02:10:16 - presenceHall state updated to 1
+2015-06-13 02:10:17 - lightHall received command ON
+2015-06-13 02:10:20 - smoke state updated to 0
+2015-06-13 02:12:27 - smoke state updated to 0
+2015-06-13 02:12:37 - presenceHall state updated to 0
+2015-06-13 02:12:38 - lightHall received command OFF
+2015-06-13 02:42:18 - presenceHall state updated to 1
+2015-06-13 02:42:18 - lightHall received command ON
+2015-06-13 02:42:21 - presenceHall state updated to 0
+2015-06-13 02:42:22 - lightHall received command OFF
+2015-06-13 02:53:49 - smoke state updated to 0
+2015-06-13 02:55:30 - smoke state updated to 0
+2015-06-13 02:55:36 - smoke state updated to 0
+2015-06-13 02:55:37 - smoke received command OFF
+2015-06-13 02:55:57 - smoke state updated to 1
+2015-06-13 02:55:57 - smoke received command ON
+2015-06-13 03:33:05 - nobodyHome received command ON
+2015-06-13 03:33:14 - nobodyHome received command OFF
+2015-06-13 05:38:17 - smoke state updated to 0
+2015-06-13 05:38:17 - smoke state updated to 0
+2015-06-13 05:38:17 - smoke state updated to 0
+2015-06-13 05:38:17 - smoke state updated to 0
+2015-06-13 05:38:18 - smoke received command OFF
+2015-06-13 05:38:18 - smoke received command OFF
+2015-06-13 05:38:18 - smoke received command OFF
+2015-06-13 05:38:19 - smoke received command OFF
+2015-06-13 05:38:31 - smoke state updated to 1
+2015-06-13 05:38:31 - smoke state updated to 1
+2015-06-13 05:38:31 - smoke state updated to 1
+2015-06-13 05:38:31 - smoke state updated to 1
+2015-06-13 05:38:31 - smoke received command ON
+2015-06-13 05:38:31 - smoke received command ON
+2015-06-13 05:38:32 - smoke received command ON
+2015-06-13 05:38:32 - smoke received command ON
+2015-06-13 05:51:23 - nobodyHome received command ON
+2015-06-13 05:51:25 - nobodyHome received command OFF
+2015-06-13 05:51:38 - smoke state updated to 0
+2015-06-13 05:51:38 - smoke received command OFF
+2015-06-13 05:51:38 - smoke state updated to 0
+2015-06-13 05:51:38 - smoke state updated to 0
+2015-06-13 05:51:38 - smoke received command OFF
+2015-06-13 05:51:38 - smoke received command OFF
+2015-06-13 05:51:38 - smoke state updated to 0
+2015-06-13 05:51:38 - smoke received command OFF
+2015-06-13 05:51:50 - presenceHall state updated to 0
+2015-06-13 05:51:50 - presenceHall state updated to 0
+2015-06-13 05:51:50 - presenceHall state updated to 0
+2015-06-13 05:51:50 - presenceHall state updated to 0
+2015-06-13 05:51:51 - lightHall received command OFF
+2015-06-13 06:07:34 - presenceHall state updated to 0
+2015-06-13 06:07:34 - presenceHall state updated to 0
+2015-06-13 06:07:34 - presenceHall state updated to 0
+2015-06-13 06:07:34 - presenceHall state updated to 0
+2015-06-13 06:26:04 - Date state updated to 2015-06-13T06:26:04
+2015-06-13 06:41:04 - Date state updated to 2015-06-13T06:41:04
+2015-06-13 06:43:00 - presenceHall state updated to 0
+2015-06-13 06:43:00 - presenceHall state updated to 0
+2015-06-13 06:43:00 - presenceHall state updated to 0
+2015-06-13 06:43:00 - presenceHall state updated to 0
+2015-06-13 06:43:01 - lightHall received command OFF
+2015-06-13 06:43:27 - press state updated to 98000
+2015-06-13 06:43:27 - press state updated to 98000
+2015-06-13 06:43:27 - press state updated to 98000
+2015-06-13 06:43:27 - press state updated to 98000
+2015-06-13 06:43:53 - smoke state updated to 0
+2015-06-13 06:43:53 - smoke state updated to 0
+2015-06-13 06:43:53 - smoke state updated to 0
+2015-06-13 06:43:53 - smoke state updated to 0
+2015-06-13 06:43:55 - smoke received command OFF
+2015-06-13 06:43:55 - smoke received command OFF
+2015-06-13 06:43:55 - smoke received command OFF
+2015-06-13 06:43:55 - smoke received command OFF
+2015-06-13 06:44:08 - humiHome state updated to 66.3
+2015-06-13 06:44:08 - humiHome state updated to 66.3
+2015-06-13 06:44:08 - humiHome state updated to 66.3
+2015-06-13 06:44:08 - humiHome state updated to 66.3
+2015-06-13 06:56:04 - Date state updated to 2015-06-13T06:56:04
+2015-06-13 07:11:04 - Date state updated to 2015-06-13T07:11:04
+2015-06-13 07:26:04 - Date state updated to 2015-06-13T07:26:04

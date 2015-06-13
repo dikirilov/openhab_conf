@@ -1,6 +1,5 @@
 #!/bin/bash
-  to=$1
-  msg=$2
+  msg=$1
   tgpath=/home/bananapi/tg
   cd ${tgpath}
-  (sleep 5; echo "msg $to $msg"; echo "safe_quit") | ${tgpath}/bin/telegram-cli -k tg-server.pub -W
+ (sleep 5; echo "msg Дмитрий_Кириловский $msg"; echo "safe_quit") | ${tgpath}/bin/telegram-cli -k tg-server.pub -W
