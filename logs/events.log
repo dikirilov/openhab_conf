@@ -13,3 +13,66 @@
 2015-06-15 08:18:04 - smoke received command OFF
 2015-06-15 08:19:48 - nobodyHome received command ON
 2015-06-15 08:19:48 - nobodyHome received command OFF
+2015-06-16 05:32:50 - tempHome state updated to 26.7
+2015-06-16 05:33:11 - humiHome state updated to 56.1
+2015-06-16 05:33:37 - presenceHall state updated to 0
+2015-06-16 05:33:39 - lightHall received command OFF
+2015-06-16 05:34:55 - smoke state updated to 0
+2015-06-16 05:34:57 - smoke received command OFF
+2015-06-16 05:35:19 - nobodyHome received command ON
+2015-06-16 05:35:21 - nobodyHome received command OFF
+2015-06-16 05:35:43 - press state updated to 102352
+2015-06-16 22:37:52 - Date state updated to 2015-06-16T22:37:52
+2015-06-16 22:38:37 - nobodyHome received command ON
+2015-06-16 22:38:52 - nobodyHome received command OFF
+2015-06-16 22:39:24 - nobodyHome received command ON
+2015-06-16 22:39:30 - nobodyHome received command OFF
+2015-06-16 22:40:17 - nobodyHome received command ON
+2015-06-16 22:40:19 - nobodyHome received command OFF
+2015-06-16 22:40:28 - nobodyHome received command ON
+2015-06-16 22:40:30 - nobodyHome received command OFF
+2015-06-16 22:40:36 - nobodyHome received command ON
+2015-06-16 22:40:39 - nobodyHome received command OFF
+2015-06-16 22:41:31 - nobodyHome received command ON
+2015-06-16 22:41:33 - nobodyHome received command OFF
+2015-06-16 22:41:41 - nobodyHome received command ON
+2015-06-16 22:41:43 - nobodyHome received command OFF
+2015-06-16 22:42:25 - nobodyHome received command ON
+2015-06-16 22:42:26 - nobodyHome received command OFF
+2015-06-16 22:51:35 - nobodyHome received command ON
+2015-06-16 22:51:43 - nobodyHome received command OFF
+2015-06-16 22:52:47 - nobodyHome received command ON
+2015-06-16 22:52:52 - Date state updated to 2015-06-16T22:52:52
+2015-06-16 22:52:52 - nobodyHome received command OFF
+2015-06-16 22:56:12 - nobodyHome received command ON
+2015-06-16 22:56:16 - nobodyHome received command OFF
+2015-06-16 23:00:32 - nobodyHome received command ON
+2015-06-16 23:00:43 - nobodyHome received command OFF
+2015-06-16 23:02:23 - nobodyHome received command ON
+2015-06-16 23:02:25 - nobodyHome received command OFF
+2015-06-16 23:07:52 - Date state updated to 2015-06-16T23:07:52
+2015-06-18 06:19:31 - nobodyHome received command ON
+2015-06-18 06:19:33 - nobodyHome received command OFF
+2015-06-18 06:20:02 - humiHome state updated to 65.3
+2015-06-18 06:20:02 - humiHome state updated to 65.3
+2015-06-18 06:20:02 - humiHome state updated to 65.3
+2015-06-18 06:20:02 - humiHome state updated to 65.3
+2015-06-18 06:20:19 - press state updated to 100244
+2015-06-18 06:20:19 - press state updated to 100244
+2015-06-18 06:20:19 - press state updated to 100244
+2015-06-18 06:20:20 - press state updated to 100244
+2015-06-18 06:20:29 - pres state updated to 0
+2015-06-18 06:20:38 - pres state updated to OFF
+2015-06-18 06:20:49 - smoke state updated to 0
+2015-06-18 06:20:49 - smoke state updated to 0
+2015-06-18 06:20:49 - smoke state updated to 0
+2015-06-18 06:20:49 - smoke state updated to 0
+2015-06-18 06:20:51 - smoke received command OFF
+2015-06-18 06:20:52 - smoke received command OFF
+2015-06-18 06:20:51 - smoke received command OFF
+2015-06-18 06:20:51 - smoke received command OFF
+2015-06-18 06:20:57 - presenceHall state updated to 0
+2015-06-18 06:20:57 - presenceHall state updated to 0
+2015-06-18 06:20:57 - presenceHall state updated to 0
+2015-06-18 06:20:57 - presenceHall state updated to 0
+2015-06-18 06:20:58 - lightHall received command OFF

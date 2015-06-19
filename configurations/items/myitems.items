@@ -25,4 +25,4 @@ Switch lightHall "Свет в корридоре [%d]" (LightControl,Indoor) { m
 
 Number	presenceHall	"Присутствие  [MAP(contact.map):%d]" (Presence, Indoor) {mqtt="<[mybroker:/device/status/presenceHall:state:default], >[mybroker:/server/command/presenceHall:command:*:default]"}
 
-Switch nobodyHome "Никого нет дома" (All) 
+Switch nobodyHome "Никого нет дома" (All) {mqtt=">[mybroker:/server/status/nobodyHome:state:default]"} 
